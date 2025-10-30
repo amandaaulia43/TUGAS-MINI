@@ -1,0 +1,4 @@
+Plaintext  : AMANDA AULIA NURANI
+Shift      : 3
+Encrypt    : DPDQGD DXOLD QXUDQL
+Decrypt    : AMANDA AULIA NURANI

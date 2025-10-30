@@ -1,0 +1,4 @@
+=== HILL CIPHER RESULT ===
+Plaintext      : AMANDA
+Encrypt        : KINNJG
+Decrypt        : AMANDA
